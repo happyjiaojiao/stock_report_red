@@ -1,6 +1,7 @@
 # 买入工作流 2026-06-03
 
 - 上一交易日：`2026-06-02`
+- 任务批次：`first_scheduled_task_rerun`
 - 复盘来源：`/Users/bytedance/Downloads/new-stock-reports-main.zip::new-stock-reports-main/fupan_codex_leader_chain_2026-06-02.md`
 - 行情来源：中新网 09:47 开盘报道、东方财富行情接口
 - 决策时间：2026-06-03 早盘
@@ -39,4 +40,3 @@
 - 是否成交：`False`
 - 执行摘要：`no_buy`
 - 盘中跟踪：若 AI 硬件核心出现良性分歧，优先观察 `002384 东山精密`、`300502 新易盛`、`601138 工业富联` 是否仍能保持共振；若只剩光纤前排缩量加速而容量票不跟，则不参与。
-
